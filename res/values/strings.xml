@@ -1580,8 +1580,8 @@ Listening at high volume for long periods may damage your hearing."</string>
     <string name="policydesc_disableRoamingAutoSync">Prevent auto-sync while roaming</string>
     <string name="roaming_auto_sync_disabled_notification_title">Roaming auto-sync restricted</string>
     <string name="roaming_auto_sync_disabled_notification_message">A security policy which restricts the use of auto-sync while roaming.</string>
-    <string name="somc_btn_on">I</string>
-    <string name="somc_btn_off">〇</string>
+    <string name="somc_btn_on">ON</string>
+    <string name="somc_btn_off">OFF</string>
     <string name="BaAllMmi">All call blocking</string>
     <string name="BaICMmi">Incoming call blocking</string>
     <string name="BaICrMmi">Incoming call blocking when roaming</string>
