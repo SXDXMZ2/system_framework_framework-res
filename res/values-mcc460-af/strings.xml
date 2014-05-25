@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_accessFineLocation">Laat die program toe om jou presiese ligging te kry met behulp van die globaleposisioneringstelsel (GPS) of netwerkliggingbronne soos seltorings en WLAN. Hierdie liggingdienste moet aangeskakel en beskikbaar wees aan jou toestel vir die program om dit te gebruik. Programme kan dit gebruik om te bepaal waar jy is en kan batterylewe opgebruik.</string>
+    <string name="permdesc_accessCoarseLocation">Laat die program toe om jou benaderde ligging te kry. Hierdie ligging word verkry deur liggingdienste met gebruik van netwerkliggingbronne soos seltorings en WLAN. Hierdie liggingdienste moet aangeskakel en beskikbaar wees aan jou toestel vir die program om dit te gebruik. Programme kan dit gebruik om te bepaal waar omtrent jy is.</string>
+    <string name="permlab_configureWifiDisplay">stel WLAN-skerms op</string>
+    <string name="permdesc_configureWifiDisplay">Laat die program toe om WLAN-skerms op te stel en daaraan te koppel.</string>
+    <string name="permlab_controlWifiDisplay">beheer WLAN-skerms</string>
+    <string name="permdesc_controlWifiDisplay">Laat die program toe om laevlak-kenmerke van WLAN-skerms te beheer.</string>
+    <string name="permlab_accessWifiState">bekyk WLAN-verbindings</string>
+    <string name="permdesc_accessWifiState">Laat die program toe om inligting oor WLAN-netwerke, soos of WLAN geaktiveer is en die name van gekoppelde WLAN toestelle, te sien.</string>
+    <string name="permlab_changeWifiState">koppel en ontkoppel van WLAN</string>
+    <string name="permdesc_changeWifiState">Laat die program toe om te koppel aan en te ontkoppel van WLAN-toegangspunte en om veranderings aan WLAN-netwerke se toestelopstellings te maak.</string>
+    <string name="permlab_changeWifiMulticastState">laat WLAN-multisendontvangs toe</string>
+    <string name="permdesc_changeWifiMulticastState">"Laat die program toe om pakkies te ontvang wat met behulp van multisaai-adresse na alle toestelle op 'n WLAN-netwerk gestuur is, nie net jou foon nie. Dit gebruik meer krag as die nie-multisaaimodus."</string>
+    <string name="wifi_available_sign_in">Meld aan by WLAN-netwerk</string>
+    <string name="wifi_watchdog_network_disabled">Kon nie aan WLANkoppel nie</string>
+    <string name="wifi_p2p_dialog_title">WLAN Direct</string>
+    <string name="wifi_p2p_turnon_message">Begin WLAN Direct. Dit sal die WLAN-kliënt/warmkol afskakel.</string>
+    <string name="wifi_p2p_failed_message">Kon nie WLAN Direct begin nie.</string>
+    <string name="wifi_p2p_enabled_notification_title">WLAN Direk is aan</string>
+    <string name="wifi_p2p_frequency_conflict_message">Die foon sal tydelik van WLAN ontkoppel terwyl dit aan %1$s gekoppel is</string>
+    <string name="tethered_notification_title">Verbinding of WLAN-warmkol aktief</string>
+    <string name="data_usage_wifi_limit_title">WLAN-data gedeaktiveer</string>
+    <string name="data_usage_wifi_limit_snoozed_title">WLAN se datalimiet oorskry</string>
+</resources>

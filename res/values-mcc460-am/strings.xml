@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_accessFineLocation">መተግበሪያው የእርስዎን አለምአቀፍ የመሬት አቀማመጥ ስርዓትን (ጂ ፒ ኤስ) ወይም እንደ የተንቀሳቃሽ ስልክ ማማዎች እና WLAN ያሉ የአውታረ መረብ አካባቢ ምንጮችን ተጠቅሞ ትክክለኛ አካባቢዎትን እንዲያውቅ ያስችለዋል። መተግበሪያው እነዚህ የአካባቢ አገልግሎቶችን እንዲጠቀምባቸው እነሱ ሊበሩ እና ለመሣሪያዎ የሚገኙ መሆን አለባቸው። መተግበሪያዎች እርስዎ የት እንዳሉ ለማወቅ ይህንን ሊጠቀሙበት ይችላሉ፣ እና ተጨማሪ ባትሪ ሊፈጁ ይችላሉ።</string>
+    <string name="permdesc_accessCoarseLocation">መተግበሪያው ግምታዊ አካባቢዎትን እንዲያገኝ ያሽችለዋል። ይህ አካባቢ እንደ የተንቀሳቃሽ ስልክ ማማዎች እና WLAN ያሉ የአውታረ መረብ አካባቢ ምንጮችን በመጠቀም የሚገኝ ነው። መተግበሪያው እነዚህ የአካባቢ አገልግሎቶችን እንዲጠቀምባቸው እነሱ ሊበሩ እና ለመሣሪያዎ የሚገኙ መሆን አለባቸው። መተግበሪያዎች እርስዎ የት እንዳሉ ለማወቅ ይህንን ሊጠቀሙበት ይችላሉ።</string>
+    <string name="permlab_configureWifiDisplay">የWLAN ማሳያዎችን አዋቅር</string>
+    <string name="permdesc_configureWifiDisplay">መተግበሪያው የWLAN ማሳያዎችን እንዲያዋቅርና ከእነሱ ጋር እንዲገናኝ ይፈቅድለታል።</string>
+    <string name="permlab_controlWifiDisplay">የWLAN ማሳያዎችን ተቆጣጠር</string>
+    <string name="permdesc_controlWifiDisplay">መተግበሪያው በዝቅተኛ ደረጃ ላይ ያሉ የWLAN ማሳያዎችን እንዲቆጣጠር ይፈቅድለታል።</string>
+    <string name="permlab_accessWifiState">የWLAN ግኑኝነቶችን እይ</string>
+    <string name="permdesc_accessWifiState">መተግበሪያው አንደ WLAN እንደነቃ እና የተገናኙ የWLAN መሳሪያዎችን ስም የመሳሰሉ የWLAN አውታረ መረብ መረጃዎችን እንዲያይ ይፈቅድለታል።</string>
+    <string name="permlab_changeWifiState">ከWLAN ጋር ተገናኝና ተላቀቅ</string>
+    <string name="permdesc_changeWifiState">መተግበሪያው ከWLAN መዳረሻ ነጥቦች ጋር እንዲገናኝና እንዲለያይ እንዲሁም ለWLAN አውታረ መረቦች የመሳሪያ ውቅር ለውጦች እንዲያደርግ ይፈቅድለታል።</string>
+    <string name="permlab_changeWifiMulticastState">የWLAN ብዙስምሪትተቀባይፍቀድ</string>
+    <string name="permdesc_changeWifiMulticastState">መተግበሪያው ባለብዙ ስምሪት አድራሻዎችን በመጠቀም ስልክህን ብቻ ሳይሆን በWLAN አውታረ መረብ ላሉ መሳሪያዎች በሙሉ የተላኩ እሽጎችን እንዲቀበል ይፈቅድለታል። ባለብዙ ስምሪት ካልሆነው ሁኔታ የበለጠ ሃይል ይጠቀማል።</string>
+    <string name="wifi_available_sign_in">ወደ WLAN አውታረ መረብ በመለያ ግባ</string>
+    <string name="wifi_watchdog_network_disabled">ወደ WLAN ለማያያዝ አልተቻለም</string>
+    <string name="wifi_p2p_dialog_title">WLAN ቀጥታ</string>
+    <string name="wifi_p2p_turnon_message">"የWLAN በቀጥታ  ጀምር።ይህ የWLAN ደንበኛ /ድረስ ነጥብ  ያጠፋል።"</string>
+    <string name="wifi_p2p_failed_message">በቀጥታ WLAN ማስጀመር አልተቻለም።</string>
+    <string name="wifi_p2p_enabled_notification_title">የWLAN ቀጥታ በርቷል</string>
+    <string name="wifi_p2p_frequency_conflict_message">ስልኩ ከ%1$s ጋር ተገናኝቶ ባለበት ጊዜ በጊዜያዊነት ከWLAN ጋር ያለው ግንኙነት ይቋረጣል</string>
+    <string name="data_usage_wifi_limit_title">WLAN ውሂብ ቦዝኗል</string>
+    <string name="data_usage_wifi_limit_snoozed_title">WLAN ውሂብ ገደብ ታልፏል</string>
+</resources>

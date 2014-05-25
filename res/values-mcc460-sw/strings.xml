@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_accessFineLocation">Inaruhusu programu kupata eneo lako sahihi kwa kutumia Mfumo wa Mkao Ulimwenguni (GPS) au vyanzo vya mtandao vya eneo kama vile minara na WLAN. Lazima huduma hizi za eneo ziwashwe na kupatikana kwenye kifaa chako ili programu izitumie. Huenda programu zikatumia hii kutambua ulipo, na zinaweza kutumia kawi ya ziada ya betri.</string>
+    <string name="permdesc_accessCoarseLocation">Inaruhusu programu kupata eneo lako la kukadiria. Eneo hili linatokana na huduma za maeneo kwa kutumia vyanzo vya mtandao vya eneo kama vile minara na WLAN. Lazima huduma hizi za eneo ziwashwe na kupatikana kwenye kifaa chako ili programu izitumie. Huenda programu zikatumia hii kutambua ulipo kwa kukadiria.</string>
+    <string name="permlab_configureWifiDisplay">sanidi maonyesho ya WLAN</string>
+    <string name="permdesc_configureWifiDisplay">Inaruhusu programu kusanidi na kuunganika kwenye maonyesho ya WLAN.</string>
+    <string name="permlab_controlWifiDisplay">dhibiti maonyesho ya WLAN</string>
+    <string name="permdesc_controlWifiDisplay">Inaruhusu programu kudhibiti vipengele vya kiwango cha chini vya maonyesho ya WLAN.</string>
+    <string name="permlab_accessWifiState">ona miunganisho ya WLAN</string>
+    <string name="permdesc_accessWifiState">Inaruhusu programu kuona taarifa kuhusu mtandao wa WLAN, kama vile ikiwa WLAN imewezeshwa mna jina la vifaa vya WLAN vilivyounganishwa.</string>
+    <string name="permlab_changeWifiState">unganisha na utenganishe kutoka kwa WLAN</string>
+    <string name="permdesc_changeWifiState">Inaruhusu programu kuunganisha kwenye au kukata kutoka pointi za ufikivu wa WLAN na kufanya mabadiliko kwenye usanidi wa kifaa cha mitandao ya WLAN.</string>
+    <string name="permlab_changeWifiMulticastState">ruhusu upokeaji wa WLAN Multicast</string>
+    <string name="permdesc_changeWifiMulticastState">Inaruhusu programu kupokea pakiti zilizotumwa katika vifaa vyote kwenye mtandao wa WLAN kwa kutumia anwani za upeperushaji anuwai, sio tu simu yako. Inatumia nguvu zaidi kuliko mfumo wa upeperushaji usio anuwai.</string>
+    <string name="wifi_available_sign_in">Ingia kwenye mtandao wa WLAN</string>
+    <string name="wifi_watchdog_network_disabled">Haikuweza kuunganisha kwa Mtandao-Hewa</string>
+    <string name="wifi_p2p_dialog_title">Mtandao hewa Moja kwa moja</string>
+    <string name="wifi_p2p_turnon_message">Anzisha WLAN Moja kwa Moja. Hii itazima mteja/mtandao-hewa wa WLAN.</string>
+    <string name="wifi_p2p_failed_message">Haikuweza kuanzisha WLAN Moja kwa Moja.</string>
+    <string name="wifi_p2p_enabled_notification_title">WLAN ya Moja kwa Moja imewashwa</string>
+    <string name="wifi_p2p_frequency_conflict_message">Simu itaukata muunganisho kwa muda kutoka kwenye WLAN inapokuwa imeunganishwa kwenye %1$s</string>
+    <string name="data_usage_wifi_limit_title">Taarifa za WLAN zimefichwa</string>
+    <string name="data_usage_wifi_limit_snoozed_title">Taarifa za WLAN zimevuka kiwanga</string>
+</resources>

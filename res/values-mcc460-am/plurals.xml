@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="wifi_available">
+        <item quantity="other">የWLAN አውታረ መረቦች አሉ</item>
+        <item quantity="one">የWLAN አውታረ መረብ አለ</item>
+    </plurals>
+    <plurals name="wifi_available_detailed">
+        <item quantity="other">አውታረ መረቦች ሲኖሩ WLAN ክፈት</item>
+        <item quantity="one">አውታረ መረብ ሲኖር WLAN ክፈት</item>
+    </plurals>
+</resources>

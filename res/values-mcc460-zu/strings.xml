@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_accessFineLocation">Ivumela uhlelo lokusebenza ukuthola indawo yakho uqobo isebenzisa i-Global Positioning System (GPS) noma imithombo yendawo yenethiwekhi njengama-cell tower ne-WLAN. Lawa masevisi endawo kufanele akhanyiswe futhi atholakale kudivayisi yakho ukuze asetshenziswe uhlelo lokusebenza. Izinhlelo zokusebenza zingasebenzias lokhu ukucacisa lapho ukhona, futhi angasebenzisa ibhethri elingeziwe.</string>
+    <string name="permdesc_accessCoarseLocation">Ivumela uhlelo lokusebenza ukuthola cishe indawo yakho. Le ndawo isuselwe kumasevisi endawo kusetshenziswa imithombo yendawo yenethiwekhi njengama-cell tower ne-WLAN. Lawo masevisi endawo kufanele akhanyiswe futhi atholakale kudivayisi yakho ukuze asetshenziswe uhlelo lakho lokusebenza. Izinhlelo zokusebenza zingasebenzisa lokhu ukucacisa cishe lapho ukhona.</string>
+    <string name="permlab_configureWifiDisplay">lungisa ukubukwa kwe-WLAN</string>
+    <string name="permdesc_configureWifiDisplay">Ivumela uhlelo lokusebenza ukulungisa nokuxhuma ekubukisweni kwe-WLAN.</string>
+    <string name="permlab_controlWifiDisplay">lawula ukubukwa kwe-WLAN</string>
+    <string name="permdesc_controlWifiDisplay">Uvumela uhlelo lokusebenza ukulawula izici zeleveli ephansi zokuboniswa kwe-WLAN.</string>
+    <string name="permlab_accessWifiState">buka ukuxhumaneka kwi-WLAN</string>
+    <string name="permdesc_accessWifiState">Ivumela uhlelo lokusebenza ukubuka ulwazi mayelana namanethiwekhi e-WLAN, njengokuthi noma ngabe i-WLAN inikwe amandla futhi negama lamadivayisi e-WLAN axhunyiwe.</string>
+    <string name="permlab_changeWifiState">xhuma uphinde unqamule kwi-WLAN</string>
+    <string name="permdesc_changeWifiState">Ivumela uhlelo lokusebenza ukuxhuma nokunqamula kumaphoyinti okufinyelela e-WLAN nokwenza izinguquko ekucushweni kwedivayisi kwamanethiwekhi e-WLAN.</string>
+    <string name="permlab_changeWifiMulticastState">ivumela isamukeli se-WLAN Multicast</string>
+    <string name="permdesc_changeWifiMulticastState">Ivumela uhlelo lokusebenza ukuthola amaphakethe athunyelwe kuwo onke amadivayisi kunethiwekhi ye-WLAN asebenzisa amakheli amaningi okusakaza, hhayi nje ifoni yakho. Isebenzisa amandla aminingi ukudlula imodi okungeyona yokusakaza okuningi.</string>
+    <string name="wifi_available_sign_in">Ngena enethiwekhini ye-WLAN network</string>
+    <string name="wifi_watchdog_network_disabled">Ayikwazanga ukuxhuma kwi-WLAN</string>
+    <string name="wifi_p2p_dialog_title">I-WLAN Eqondile</string>
+    <string name="wifi_p2p_turnon_message">Qala ukusebenza kwe-WLAN Okuqondile. Lokhu kuzocima ikhasimende le-WLAN/Ukusebenza okwe-hotspot</string>
+    <string name="wifi_p2p_failed_message">Yehlulekile ukuqala i-WLAN Ngqo</string>
+    <string name="wifi_p2p_enabled_notification_title">I-WLAN Direct ivulekile</string>
+    <string name="wifi_p2p_frequency_conflict_message">Ifoni izonqamuka okwesikhashana ku-WLAN ngenkathi ixhumeke ku-%1$s</string>
+    <string name="data_usage_wifi_limit_title">Umkhawulo wemininingwane ye-WLAN ukhubaziwe</string>
+    <string name="data_usage_wifi_limit_snoozed_title">Kufinyelwe kunkhawulo we-WLAN ongedlulwe</string>
+</resources>

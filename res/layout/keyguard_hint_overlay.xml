@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/keyguard_hint_overlay_container" android:clickable="false" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/keyguard_right_hint_icon" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_lockscreen_camera_hint" android:layout_alignParentRight="true" />
+    <ImageView android:id="@id/keyguard_left_hint_icon" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_lockscreen_other_widgets_hint" android:layout_alignParentLeft="true" />
+</RelativeLayout>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:contentDescription="@string/keyguard_accessibility_camera"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ProgressBar android:id="@id/somc_camera_start_progress" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:indeterminateOnly="true" android:indeterminateDrawable="@drawable/lockscreen_progress_states" android:indeterminateDuration="3500" android:indeterminateBehavior="repeat" android:layout_alignLeft="@id/somc_camera_icon" android:layout_alignTop="@id/somc_camera_icon" android:layout_alignRight="@id/somc_camera_icon" android:layout_alignBottom="@id/somc_camera_icon" android:layout_centerInParent="true" />
+    <ImageView android:id="@id/somc_camera_icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_lockscreen_sonycamera" android:scaleType="center" android:layout_centerInParent="true" />
+</RelativeLayout>
